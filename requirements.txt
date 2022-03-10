@@ -3,7 +3,7 @@ numpy
 matplotlib
 seaborn
 plotly
-pickle
+pickle5
 streamlit
 cssutils
 sklearn
