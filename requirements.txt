@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+pickle
+streamlit
+cssutils
+sklearn
+scipy
+sklearn
+PIL
