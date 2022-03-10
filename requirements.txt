@@ -9,4 +9,4 @@ cssutils
 sklearn
 scipy
 sklearn
-PIL
+Pillow
