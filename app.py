@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
-import pickle
+import pickle5 as pickle
 import streamlit as st
 import cssutils
 from sklearn.neighbors import NearestNeighbors
